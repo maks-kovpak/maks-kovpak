@@ -26,10 +26,3 @@ I am a passionate front-end developer currently working at [Datawiz.io](https://
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div>
-  <img align="top" alt="Maksym Kovpak's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maks-kovpak&show_icons=true&hide=issues&rank_icon=github&theme=github">
-  <img align="top" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maks-kovpak&layout=compact">
-</div>
