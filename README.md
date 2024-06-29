@@ -15,17 +15,17 @@ I am a passionate front-end developer currently working at [Datawiz.io](https://
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -33,10 +33,3 @@ I am a passionate front-end developer currently working at [Datawiz.io](https://
   <img align="top" alt="Maksym Kovpak's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maks-kovpak&show_icons=true&hide=issues&rank_icon=github&theme=github">
   <img align="top" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maks-kovpak&layout=compact">
 </div>
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/maksym-kovpak/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kovpak.maksym@gmail.com)
-
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox)](https://portfolio.com) -->
